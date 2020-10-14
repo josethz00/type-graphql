@@ -1,0 +1,2 @@
+ yarn add -D ts-jest @types/jest jest
+ yarn ts-jest config:init
